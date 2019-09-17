@@ -1,0 +1,12 @@
+.item-add-form input {
+  flex: 9;
+
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.item-add-form button {
+  flex: 3;
+
+  margin-left: 5px;
+}
